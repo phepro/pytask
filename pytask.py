@@ -1,5 +1,4 @@
 import os
-from termios import CREAD
 
 tasks = []
 tasks_size = len(tasks)
